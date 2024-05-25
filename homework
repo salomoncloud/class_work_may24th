@@ -7,9 +7,7 @@ Description: Use this data source to access information about an existing Resour
 To create a resource group on Azure:
 
 
-Make sure you enter:
-- name
-- location
+Make sure you enter name & location
 
 
 **Data Source: azurerm_subnet**
