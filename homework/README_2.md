@@ -2,9 +2,6 @@ this is the homework assignment for the 31st of May. This file has been created 
 
 Here is a list of Azure commands that will come in handy;
 
-
-Sure! Below is a list of common Azure CLI (Command-Line Interface) commands that you can use in the Windows Command Prompt to manage various Azure resources. Before running these commands, ensure that you have the Azure CLI installed and you're logged in to your Azure account.
-
 Basic Commands:
 
 Login to Azure
